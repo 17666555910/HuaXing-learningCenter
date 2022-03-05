@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/SpringBoot-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/elasticsearch/SpringBoot_elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeFolder/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeFolder/elasticsearch/SpringBoot_elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeFolder/01_JavaBase/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

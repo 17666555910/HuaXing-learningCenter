@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeFolder/01_JavaBase/01_JavaBase.iml" filepath="$PROJECT_DIR$/CodeFolder/01_JavaBase/01_JavaBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HuaXing-learningCenter.iml" filepath="$PROJECT_DIR$/.idea/HuaXing-learningCenter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elasticsearch/SpringBoot_elasticsearch/SpringBoot_elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/SpringBoot_elasticsearch/SpringBoot_elasticsearch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeFolder/elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/CodeFolder/elasticsearch/elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeFolder/elasticsearch/SpringBoot_elasticsearch/springboot_elasticsearch.iml" filepath="$PROJECT_DIR$/CodeFolder/elasticsearch/SpringBoot_elasticsearch/springboot_elasticsearch.iml" />
     </modules>
   </component>
 </project>

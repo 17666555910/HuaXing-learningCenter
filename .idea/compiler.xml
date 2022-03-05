@@ -8,20 +8,27 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="elasticsearch" />
-        <module name="SpringBoot_elasticsearch" />
+        <module name="springboot_elasticsearch" />
+        <module name="01_JavaBase" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="01_JavaBase" target="1.8" />
       <module name="elasticsearch" target="1.8" />
+      <module name="JavaBase" target="1.8" />
       <module name="SpringBoot-elasticsearch" target="1.8" />
       <module name="SpringBoot_elasticsearch" target="1.8" />
+      <module name="springboot_elasticsearch" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01_JavaBase" options="-parameters" />
+      <module name="JavaBase" options="-parameters" />
       <module name="SpringBoot-elasticsearch" options="-parameters" />
       <module name="SpringBoot_elasticsearch" options="-parameters" />
       <module name="elasticsearch" options="-parameters" />
+      <module name="springboot_elasticsearch" options="-parameters" />
     </option>
   </component>
 </project>
