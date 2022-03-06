@@ -14,8 +14,10 @@
 
 ## BlogFolder
 
-### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)Java基础专栏![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)](https://blog.csdn.net/a767815662/category_11669026.html)
-
+### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)Java基础技术及面试专刊](https://blog.csdn.net/a767815662/category_11669026.html)
+    本专栏适合初学Java以及想巩固Java基础知识整个体系，务实基础的技术人员阅读。
+    遵循从易到难、知识体系全面、全文通俗易懂等原则进行创作。
+    共有优质文章xx篇，覆盖了整个Java基础知识。
 
 
 # 。。。。。。![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png)华星详谈-学习中心![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png) 持续更新中。。。。。。
