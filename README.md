@@ -19,16 +19,18 @@
     遵循从易到难、知识体系全面、全文通俗易懂等原则进行创作。
     共有优质文章xx篇，覆盖了整个Java基础知识。
 
-### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)Elasticsearch 系列](https://blog.csdn.net/a767815662/category_9190277.html)
+### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)Elasticsearch 系列专栏](https://blog.csdn.net/a767815662/category_9190277.html)
     该专栏讲的是Elasticsearch 系列。
     详细的分析了Elasticsearch 整个技术体系，包含核心知识点、项目实战、ELK的建立、大型项目的运维、海量数据调优等。
     本专栏全部完成预计会有一百多篇高质量文章，目前博主正在更新中
 
-### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)国产华为服务器RAM架构安装文档集](https://blog.csdn.net/a767815662/category_11529715.html)
+### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)国产华为服务器RAM架构安装文档集专栏](https://blog.csdn.net/a767815662/category_11529715.html)
     由于护网行动的持续开展，很多单位必须采用国产的服务器。
     故本专栏收集了华为自研的国产服务器RAM架构软件部署文档。
     本专栏服务器操作系统为华为麒麟V10操作系统，其他操作系统也类似。
     
+### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)RebbitMQ 消息队列专栏](https://blog.csdn.net/a767815662/category_10598332.html) 
+    以实战为线索，深入探讨了RebbitMQ的几种模式以及各个知识要点。
     
     
 # 。。。。。。![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png)华星详谈-学习中心![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png) 持续更新中。。。。。。
