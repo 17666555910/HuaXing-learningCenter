@@ -1,5 +1,7 @@
 # HuaXing-learningCenter（华星详谈-学习中心）
-    华星详谈-学习中心。收集了Java目前市面上主要流行的技术细节以及对应的实现
+    大家好，我是星仔。这里是华星详谈-学习中心。本学习中心收集了Java整个技术体系的所有技术要点。
+    为各位同胞们能够系统性的掌握整个Java技术体系而建立的学习中心。星仔正在努力的更新学习中心中的内容。望诸君共勉！！！
+    
 **ps: 各个主模块之间是相互独立的，每一个主模块都包含一个或者一系列知识点或技术的使用**
 
 ## ![0887F4C6](https://user-images.githubusercontent.com/47840272/156909595-cea44278-4691-4265-9f12-71b02a3df9d3.png)个人CSDN 博客地址：https://blog.csdn.net/a767815662
@@ -14,7 +16,7 @@
 
 ## BlogFolder
 
-### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)Java基础技术及面试专刊](https://blog.csdn.net/a767815662/category_11669026.html)
+### [![088ED3AF](https://user-images.githubusercontent.com/47840272/156909742-1285b58e-31b5-4de9-8e2e-43ca99ce5279.png)星仔带你学Java](https://blog.csdn.net/a767815662/category_11669026.html)
     本专栏适合初学Java以及想巩固Java基础知识整个体系，务实基础的技术人员阅读。
     遵循从易到难、知识体系全面、全文通俗易懂等原则进行创作。
     共有优质文章xx篇，覆盖了整个Java基础知识。
@@ -33,4 +35,4 @@
     以实战为线索，深入探讨了RebbitMQ的几种模式以及各个知识要点。
     
     
-# 。。。。。。![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png)华星详谈-学习中心![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png) 持续更新中。。。。。。
+# 。。。![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png)华星详谈-学习中心![0888D1C8](https://user-images.githubusercontent.com/47840272/156909612-ef8569f9-2ebe-4df9-b847-37c554858c1a.png) 持续更新中。。。
